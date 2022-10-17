@@ -1,0 +1,23 @@
+body
+{
+    font-family: "Quicksand", sans-serif; 
+}
+.navbar{
+    background-color:#263b5e!important;
+}
+.nav-item{
+    font-weight: bold;
+    line-height: 1.3;
+    letter-spacing: 2px;
+}
+.btn{
+    transform: translateY(0px);
+    transition: all 0.3s ease-in-out;
+    background-color: #FF1949;
+    font-size: 16px;
+    border-color: #FF1949!important;
+    font-family: "Quicksand", sans-serif;
+}
+.nav-tp{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+}

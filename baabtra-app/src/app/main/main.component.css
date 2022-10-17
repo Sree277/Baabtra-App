@@ -1,0 +1,43 @@
+.banner{
+    position: relative;
+    background: #263b5e;
+    padding: 120px 0px;
+}
+.col-lg-6{
+    max-width: 50%;
+}
+.banner-content{
+    color: #fff;
+    margin-bottom: 0px;
+      
+}
+.sub-heading{
+    color: #fff;
+    margin-bottom: 0px;
+    
+    font-size: 13px;
+    display: inline-block;
+    font-weight: 600;
+    letter-spacing: 2px;
+    position: relative;
+    padding-left: 0px;;
+}
+h2{
+    font-size: 32px;
+    
+}
+.banner-content p{
+    margin-bottom: 35px;
+    color: #fff;
+    opacity: .8;
+    font-size: 20px;
+    line-height: 38px;
+}
+.btn{
+    transform: translateY(0px);
+    transition: all 0.3s ease-in-out;
+    background-color: #FF1949;
+    font-size: 16px;
+    border-color: #FF1949!important;
+    font-family: "Quicksand", sans-serif;
+}

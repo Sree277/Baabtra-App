@@ -1,0 +1,67 @@
+.team{
+    position: relative;
+    padding-bottom: 90%;
+}
+.placement-section{
+    padding: 100px 0;
+}
+.bg-grey {
+    background: #cfcfce;
+}
+.sub-heading{
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #385777;
+    font-weight: 600;
+    letter-spacing: 2px;
+    
+}
+.sub-heading h1{
+    color: #203668;
+    font-weight: bold;
+   
+    letter-spacing: 2px;
+    
+}
+.placement-btn {
+    margin-left: 65%!important;
+    margin-top: -10px;
+}
+.btn-main{
+    background: #FF1949;
+    color: #fff;
+    border-color: #FF1949;
+    
+}
+a{
+    text-decoration: none;
+}
+.btn{
+    position: relative;
+    text-transform: capitalize;
+    padding: 6px 30px;
+    border-radius: 5px;
+    font-family: "Quicksand", sans-serif;
+    border: 1px solid transparent;
+    transform: translateY(0px);
+    transition: all 0.3s ease-in-out;
+    font-size: 20px;
+    padding-top: 10px;
+    letter-spacing: 2px;
+}
+.box-group{
+    display: block;
+}
+.card-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 19px;
+    color: #203668;
+    letter-spacing: 2px;
+}
+.card-text{
+    text-align: center;
+    font-size: 15px;
+    color: #FF1949;
+    letter-spacing: 1px;
+}
