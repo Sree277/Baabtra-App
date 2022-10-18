@@ -9,12 +9,13 @@ body
     font-weight: bold;
     line-height: 1.3;
     letter-spacing: 2px;
+    font-size: 14px;
 }
 .btn{
     transform: translateY(0px);
     transition: all 0.3s ease-in-out;
     background-color: #FF1949;
-    font-size: 16px;
+    font-size: 14px;
     border-color: #FF1949!important;
     font-family: "Quicksand", sans-serif;
 }
