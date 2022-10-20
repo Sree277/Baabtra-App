@@ -65,3 +65,16 @@ a{
     color: #FF1949;
     letter-spacing: 1px;
 }
+.img{
+    margin-left: 20%!important;
+}
+.person-name{
+    font-size: 20px!important;
+    font-weight: bold;
+    color: #203668;
+}
+.info{
+    font-size: 17px;
+    font-weight: 900;
+    color: #FF1949!important;
+}

@@ -2,11 +2,35 @@ body
 {
     font-family: "Quicksand", sans-serif; 
 }
+/* .header_wrapper .navbar-toggler,
+.header_wrapper .navbar-toggler:focus{
+    border: 0;
+    box-shadow: none;
+    color: var(--text-#fff);
+    line-height: 2;
+} */
+.navbar-nav{
+    justify-content: end!important;
+    
+
+}
+
 .navbar{
+    position: relative;
     background-color:#263b5e!important;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10000;
+}
+.icon{
+    color: #FF1949;
+    border-color: #FF1949;
 }
 .nav-item{
-    font-weight: bold;
+    position: relative;
+    font-weight: bolder;
     line-height: 1.3;
     letter-spacing: 1.1px;
     font-size: 14px;
@@ -15,9 +39,14 @@ body
     transform: translateY(0px);
     transition: all 0.3s ease-in-out;
     background-color: #FF1949;
-    font-size: 14px;
-    border-color: #FF1949!important;
+    font-size: 15px;
+    font-weight: bold;
+    
     font-family: "Quicksand", sans-serif;
+}
+.btn:hover{
+    background-color:#4d648d ;
+    border: color #4d648d!important;
 }
 .nav-tp{
     border-bottom: 1px solid rgba(255, 255, 255, 0.03);
